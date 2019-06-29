@@ -9,3 +9,6 @@ Learn new things
 Read more
 
 Adding more data in master branch
+
+Creating branch 2
+"Branch 2 Created"
