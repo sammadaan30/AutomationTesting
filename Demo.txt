@@ -3,3 +3,7 @@ Welcome to sanyam demo file!
 This is the learning phase of gitHub learning.
 
 I am updating my file
+
+Update two 
+Learn new things
+Read more
